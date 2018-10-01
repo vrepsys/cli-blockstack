@@ -408,7 +408,7 @@ const CLI_ARGS = {
       'Example without encryption:\n' +
       '\n' + 
       '    $ # Get an unencrypted, unsigned file\n' +
-      '    $ blockstack-cli gaia_getfile ryan.id http://public.ykliao.com statuses.json\n' +
+      '    $ blockstack-cli gaia_getfile ryan.id http://publik.ykliao.com statuses.json\n' +
       '    [{"id":0,"text":"Hello, Blockstack!","created_at":1515786983492}]\n' +
       '\n' +
       'Example with encryption:\n' +
